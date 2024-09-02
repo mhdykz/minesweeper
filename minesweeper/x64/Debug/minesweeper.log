@@ -1,0 +1,5 @@
+﻿  minesweeper.cpp
+C:\Users\Ariyana\Desktop\minesweeper\minesweeper\minesweeper.cpp(578,13): warning C4101: 'neshan': unreferenced local variable
+C:\Users\Ariyana\Desktop\minesweeper\minesweeper\minesweeper.cpp(156): warning C4715: 'mini_menu': not all control paths return a value
+C:\Users\Ariyana\Desktop\minesweeper\minesweeper\minesweeper.cpp(526): warning C4715: 'select2': not all control paths return a value
+  minesweeper.vcxproj -> C:\Users\Ariyana\Desktop\minesweeper\minesweeper\x64\Debug\minesweeper.exe
